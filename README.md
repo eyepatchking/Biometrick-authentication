@@ -1,27 +1,4 @@
-# Face Recogniton GUI-APP
-
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.youtube.com/channel/UCKvgGs-ALhvOq9u95PHXHNw)
-
-# Live Demo
-```html
-https://www.youtube.com/embed/3EBdT-0gvu8
-
-```
-
-
-# A very Simple Gui app for Face Detection 
-
-  - Collect Face Data
-  - Build Face Classifier 
-  - Detecte the face
-
-#  New Features!
-
-  - Add Emotion detection
-  - Fixed image loading in Linux 
-  
-  
+    
 # Installation
 
 1 : Install the requirements .
@@ -49,24 +26,3 @@ Add the user you want to train a classifier for <br>
 ### Capture Data and Train Classifier<br>
 Capture Data From the face then train the classifier<br>
 ![page2](https://i.ibb.co/D8JgYhN/capandtraindata.png)<br>
-
-### Users List<br>
-List of all the users<br>
-![page3](https://i.ibb.co/1KwfVVV/dropdown.png)<br>
-
-### Recognition <br>
-A webcam window will popup and start recognition proccess<br>
-![page4](https://i.ibb.co/sCtgDDC/4page.png)<br>
->![Face Recognition](https://i.ibb.co/bNpC5wR/jack.png)<br>
->![emotion](https://i.ibb.co/F7pdtjZ/emotion.png)<br>
->![Age and Gender](https://i.ibb.co/9q1L7sD/age.png)<br>
-
-
-
-<br><br>
-
-Made By ❤ : [JoeVenner](mailto:ylafrimi@gmail.com)<br>
-**Free Software, Hell Yeah!**
-
-
-
