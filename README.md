@@ -18,9 +18,6 @@ $ python app-gui.py
 ### Home Page
 ![homepage](https://i.ibb.co/c62qvR2/home-page.png)
 
-### Add a User <br>
-Add the user you want to train a classifier for <br>
-![page1](https://i.ibb.co/t8gdq6s/adduser.png)<br>
 
 
 ### Capture Data and Train Classifier<br>
